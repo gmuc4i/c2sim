@@ -7,7 +7,7 @@ _This page is still under development_
 ### C2SIM Downloads
 - C2SIM Client Libraries [link](https://github.com/gmuc4i/c2sim/example)
 - C2SIMClientLib
-- C2SIMGUI Editor
+- C2SIMGUI Editor [link](https://github.com/gmuc4i/c2sim/blob/master/C2SIMGUIv2.8.8.zip)
 - C2SIM MSG-145 MiniEx
 - C2SIM Reference Implementation Server
 - C2SIM Sandbox
