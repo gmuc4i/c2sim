@@ -13,15 +13,6 @@ body:
     attributes:
       value: |
         Thank you for taking the time to fill out this C2SIM Issue!
-   - type: dropdown
-    id: issuetype
-    attributes:
-      label: Issue Type
-      description: WIs this a Problem report or a change request
-      options:
-        - Problem Report
-        - Change Request
-    validations:
-      required: true
+ 
    
 
