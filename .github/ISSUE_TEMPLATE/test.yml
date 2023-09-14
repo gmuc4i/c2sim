@@ -1,0 +1,27 @@
+name: C2SIM Problem Report / Change Request
+description: Please use this template to create a new C2SIM issue.
+title: "[C2SIM Issue]: "
+labels: ["issue", "triage"]
+assignees:
+  - octocat
+body:
+
+
+
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this C2SIM Issue!
+ 
+ - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent for contact
+      description: By submitting this issue, you agree to be contacted in relation to this issue
+      options:
+        - label: I agree to be contacted in relation to this issue
+          validations:
+      required: true  
+   
+
