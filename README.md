@@ -1,4 +1,4 @@
-# This is the orginal home of the C2SIM project at the GMU C5I Center. 
+# This is the original home of the C2SIM project at the GMU C5I Center. 
 This repository is no longer updated or maintained.
 
 **Please visit [https://openc2sim.github.io](https://openc2sim.github.io) for the latest C2SIM repository and related artifacts**
